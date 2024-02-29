@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "valuationMethod": "Replacement Cost",
+        "appraisedValue": "$67,510,354"
+    },
+    {
+        "id": 2,
+        "valuationMethod": "Gross Rent Multiplyer",
+        "appraisedValue": "$68,072,659."
+    },
+    {
+        "id": 3,
+        "valuationMethod": "Capitalization Rate",
+        "appraisedValue": "$70,909,020"
+    },
+    {
+        "id": 4,
+        "valuationMethod": "Sales Comparison",
+        "appraisedValue": "$77,173,572.53"
+    }
+]
